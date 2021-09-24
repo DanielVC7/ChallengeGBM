@@ -1,0 +1,20 @@
+a) Driver.findElements(By.id(“btn-1”)).get(3).click();
+R=En esta instrucción findElements se obtiene el elemento web con el atributo id "btn-1" 
+contiene mas elementos web dentro de el con la instrucción get se obtentra el tercer elemento web
+y con la instrucción click se selecciona ese elemento web.
+
+
+b) WebDriverWait wait = new WebDriverWait(driver, 30); 
+
+wait.until(ExpectedConditions.visibilityOfElementLocated(By.name(“other-button”)));
+
+driver.findElement(By.id(“last_name”)).sendKeys(“Hi”);
+
+R= Se inicializa el tipo de espera implícita con una espera de 30 segundos, posteriormente
+la espera realiza una espera de 30 segundos hasta que se muestre el elemento web con el 
+atributo name que contiene “other-button” y por último el elemento web con el, id “last_name”
+se le enviara a ese elemento web el texto “Hi”.
+
+c) Assert.assertTrue(false);
+R= Se valida que el resultado booleano sea true para que pase la prueba, pero en este
+caso como el valor es false se marcara la prueba como fallida.
