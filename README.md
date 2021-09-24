@@ -6,26 +6,27 @@ El proyecto contiene los cinco puntos del reto GBM.
   -IDE(Preferible Eclipse)
   -Git bash
  *Pasos para importar proyecto(Eclipse)
-  -Selecciona la opci髇 File
-  -Seleccionar la opci髇 import..
-  -Seleccion la opci髇 Git > Project from Git
+  -Selecciona la opci贸n File
+  -Seleccionar la opci贸n import..
+  -Seleccion la opci贸n Git > Project from Git
   -Seleccionar la opcion clone URI
   -En el campo URI ingresar la url: https://github.com/DanielVC7/ChallengeGBM.git
-  -Seleccionar la opci髇 siguiente
-  -Seleccionar la opci髇 finalizar
+  -Seleccionar la opci贸n siguiente
+  -Seleccionar la opci贸n finalizar
  *Pasos para importar proyecto(Git bash)
   -Abrir git bash
   -Usar el comando: git clone https://github.com/DanielVC7/ChallengeGBM.git ChallengeGBM
-1.-Ejecuci髇 de los programas del primer punto(Con un IDE)
- -En la carpeta "src/main/java" ejecutar las clases java dentro del paquete "first.point" como una aplicaci髇 java
+1.-Ejecuci贸n de los programas del primer punto(Con un IDE)
+ -En la carpeta "src/main/java" ejecutar las clases java dentro del paquete "first.point" como una aplicaci贸n java
 2.-Ver el archivo del segundo punto
  -En la carpeta "src/test/resources/SecondPointFeature" abrir el archivo .cucumber
 3.-Ver el archivo del tercer punto
  -En la carpeta "src/main/resources/Thirdpoint" abrir el archivo .text
-4.-Ejecuci髇 de los programas del cuarto punto(Con un IDE)
+4.-Ejecuci贸n de los programas del cuarto punto(Con un IDE)
  -En la carpeta "src/test/java" ejecutar la clase java dentro del paquete "allocator" como un JUnit Test
-5.-Ejecuci髇 de los programas del quinto punto(Con un IDE)
- -En la carpeta "src/fivepoint" ejecutar la clase java dentro del paquete "allocator" como una aplicaci髇 java
+5.-Ejecuci贸n de los programas del quinto punto(Con un IDE)
+ -En la carpeta "src/fivepoint" ejecutar la clase java dentro del paquete "allocator" como una aplicaci贸n java
  
  Notas:
-  -En el punto 5 usa structurizr para realizar un escript con los diagramas de alto nivel de una arquitectura que usa m閠odos de pago.
+  -En el punto 5 usa structurizr para realizar un escript con los diagramas de alto nivel de una arquitectura que usa m茅todos de pago.
+  -La versi贸n del chrome utilizado es la versi贸n 94.
